@@ -5,16 +5,12 @@
 </div>  
   
 
-### <div align="center">I'm KALID ABDI, a full-time full-stack Web developer 👨‍💻 & Mobile Developer  🚀📱</div>  
+### <div align="center">I'm KALID AHMED, a full-time full-stack Web developer  🚀📱</div>  
+  
   
 
-- 🔭 I’m currently working on [ My Github](https://github.com/engbeekin)  
+- 🌱 I’m currently learning AI, Machine Learning, Deep Learning  
   
-
-- 🌱 I’m currently learning Flutter and React Js & Angular  
-  
-
-- ❓ Ask me about anything related .Net stack and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
